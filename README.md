@@ -1,5 +1,5 @@
 # read_binary_stl_file
-Reads STL files in very short time with MATLAB
+Reads STL files in very short time with MATLAB.
 
 Does not read color.
 Reads binary file and returns triangle nodes as n*3 matrix , vertices as 3n*3 matrix and normals as n*3 matrix
@@ -10,3 +10,8 @@ Triangles can be plotted using trisurf or trimesh
 ## Cite As
 
 Sunil Bhandari (2022). read_binary_stl_file(filename) (https://www.mathworks.com/matlabcentral/fileexchange/62345-read_binary_stl_file-filename), MATLAB Central File Exchange. Retrieved April 5, 2022.
+
+## Potential alternatives
+
+https://es.mathworks.com/matlabcentral/fileexchange/29906-binary-stl-file-reader
+https://es.mathworks.com/help/matlab/ref/stlread.html
